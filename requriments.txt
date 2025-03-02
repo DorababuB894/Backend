@@ -1,0 +1,8 @@
+flask
+flask-cors
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+PyPDF2
+werkzeug
